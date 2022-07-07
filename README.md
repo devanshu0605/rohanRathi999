@@ -13,8 +13,10 @@
 ## ⚡ Technologies
 
 ### Language :
+
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=Java)
 ![C](https://img.shields.io/badge/-C-007ACC?style=flat-square&logo=c)
+![Dart](https://img.shields.io/badge/-dart-007ACC?style=flat-square&logo=dart)
 
 
 
